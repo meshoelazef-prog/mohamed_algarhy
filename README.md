@@ -12,8 +12,6 @@ with a solid foundation in web technologies</h3>
 <br/>
 <br/>
 
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50" />
   <h2>📜 Professional Journey & Experience</h2>
@@ -40,44 +38,6 @@ with a solid foundation in web technologies</h3>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Flag" width="25" height="25" />
         </div>
         
-        <br/>
-        
-        <div style="border-left: 4px solid #00ffaa; padding-left: 20px; margin: 20px;">
-          <p>
-            <strong>🎯 Higher Institute of Science and Computer Science</strong><br/>
-            <img src="https://img.shields.io/badge/Bachelor's%20Degree-2022--2024-00ffaa?style=flat-square&labelColor=000000" alt="Bachelor's Degree"/>
-          </p>
-          
-          <p>
-            <strong>💻 Front-End Development Diploma</strong><br/>
-            <img src="https://img.shields.io/badge/FUI%2FUI%2FUX%20Design-2024--2025-ff69b4?style=flat-square&labelColor=000000" alt="FUI/UI/UX Diploma"/>
-          </p>
-        </div>
-      </td>
-      
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
-          <h3>💡 Professional Profile</h3>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Biceps" width="25" height="25" />
-        </div>
-        
-        <br/>
-        
-        <div style="border-left: 4px solid #ff69b4; padding-left: 20px; margin: 20px;">
-          <ul style="list-style-type: none; padding: 0;">
-            <li>🧠 <strong>Smart Sciences Background</strong> - Understanding market & user needs</li>
-            <li>🎨 <strong>UI/UX Specialist</strong> - Transforming ideas into seamless experiences</li>
-            <li>⚡ <strong>Clean Code Developer</strong> - Writing maintainable & versatile code</li>
-            <li>🚀 <strong>Latest Tools Expert</strong> - Using cutting-edge front-end technologies</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <!-- Skills & Technologies -->
 <div align="center">
