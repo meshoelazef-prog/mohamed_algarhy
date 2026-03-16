@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F74CF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;React+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Enthusiast;React+Specialist" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hello, I'm [Mohamed Mahmoud Algarhy] 👋</h1>
